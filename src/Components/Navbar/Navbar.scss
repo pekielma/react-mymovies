@@ -1,0 +1,17 @@
+nav{
+    background-color: #d4a373;
+    color: black;
+    display: flex;
+    align-items: flex-start;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
